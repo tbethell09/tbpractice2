@@ -7,7 +7,7 @@ st.write("""
          """)
 
 #define ticker symbol
-tickerSymbol = "GOOGL"
+tickerSymbol = "TSLA"
 
 
 #get data on this ticker
